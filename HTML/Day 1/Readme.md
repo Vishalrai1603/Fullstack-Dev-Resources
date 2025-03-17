@@ -11,7 +11,6 @@ This document provides a basic overview of how the web works, from the browser t
 - [DNS - Domain Name System](#dns-domain-name-system)
 - [Web Hosting](#web-hosting)
 - [Client-Server Model](#client-server-model-detailed)
-- [Conclusion](#conclusion)
 
 ## Introduction
 
@@ -73,7 +72,7 @@ Popular web hosting providers include:
 
 Web hosting can vary from shared hosting (where many websites share the same server) to dedicated hosting (where a single website gets an entire server).
 
-## Client-Server Model (Detailed)
+## Client-Server Model
 
 The **Client-Server Model** is a foundational concept in computing, and it plays a central role in how the web works. It refers to the way data and requests are exchanged between two main components:
 
