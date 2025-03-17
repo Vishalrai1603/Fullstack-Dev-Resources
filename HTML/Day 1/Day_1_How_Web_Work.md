@@ -1,4 +1,4 @@
-# How the Web Works
+# Day 1: How the Web Works
 
 This document provides a basic overview of how the web works, from the browser to the server, and everything in between. Understanding these concepts is essential for anyone starting with web development or simply curious about how the internet functions.
 
