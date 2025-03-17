@@ -1,4 +1,4 @@
-# Day 1: Introduction to HTML
+# Day 2: Introduction to HTML
 
 ## What is HTML?
 - HTML (HyperText Markup Language) is the standard language used to create web pages.
