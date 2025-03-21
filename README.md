@@ -41,4 +41,4 @@ I believe that the best way to learn is by sharing knowledge. As I go through tu
 
 ## 🌐 Follow My Progress
 
-I’ll be continuously updating this repo as I learn new concepts and build more projects. You can follow my progress here or on my blog [INSERT BLOG LINK] for deeper insights into the topics I’m covering.
+I’ll be continuously updating this repo as I learn new concepts and build more projects. You can follow my progress here for deeper insights into the topics I’m covering.
