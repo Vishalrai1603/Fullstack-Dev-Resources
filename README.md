@@ -40,6 +40,9 @@ Currently, I am building a fullstack Journal-Taking website, where users can cre
 - Store Entries with timestamps and categories
 - Responsive UI for a smooth experience on all devices
 
+**GitHub Repository:**  
+You can follow along and contribute to this project via the [Quick-Project](https://github.com/Vishalrai1603/Quick_project).
+
 This project will help me learn how to handle user authentication, work with databases, manage state in React, and deploy a fullstack app.
 
 **Status:** Work In Progress (WIP)
