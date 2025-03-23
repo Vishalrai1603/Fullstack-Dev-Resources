@@ -1,0 +1,32 @@
+/* Universal Selector */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Element Selector */
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+/* Class Selector */
+.text-large {
+    font-size: 24px;
+    font-weight: bold;
+    color: green;
+}
+
+/* ID Selector */
+#main-title {
+    color: red;
+    font-style: italic;
+    text-align: center;
+}
+
+/* Descendant Selector */
+div p {
+    color: gray;
+    font-size: 18px;
+}
