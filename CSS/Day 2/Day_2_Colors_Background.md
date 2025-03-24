@@ -157,7 +157,7 @@ button {
 ---
 
 ---
-## **5. Key Takeaways**
+## **4. Key Takeaways**
 - ✅ Multiple color methods: `Hex`, `RGB`, `HSL`, and transparency variations.
 - ✅ Background properties control colors, images, positioning, and behavior.
 - ✅ Borders define element boundaries and can have different styles.
