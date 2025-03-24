@@ -141,10 +141,10 @@ div > p {
 
 ---
 ## **5. Key Takeaways**
-✅ CSS controls the **visual presentation** of web pages.
-✅ CSS rules follow a `selector { property: value; }` structure.
-✅ **Three types of CSS**: Inline, Internal, and External (**External is best**).
-✅ CSS **selectors** help target specific elements for styling.
-✅ **Prefer class selectors (`.`) over ID selectors (`#`)** for flexibility.
+-  CSS controls the **visual presentation** of web pages.
+-  CSS rules follow a `selector { property: value; }` structure.
+-  **Three types of CSS**: Inline, Internal, and External (**External is best**).
+-  CSS **selectors** help target specific elements for styling.
+-  **Prefer class selectors (`.`) over ID selectors (`#`)** for flexibility.
 
 
