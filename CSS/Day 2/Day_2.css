@@ -1,0 +1,22 @@
+/* Colors */
+.highlight {
+    color: #ff5733;
+    background-color: lightyellow;
+}
+
+/* Background */
+body {
+    background-color: lightgray;
+}
+
+.box {
+    background-image: url('background.jpg');
+    background-size: cover;
+}
+
+/* Borders */
+.box {
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 20px;
+}
