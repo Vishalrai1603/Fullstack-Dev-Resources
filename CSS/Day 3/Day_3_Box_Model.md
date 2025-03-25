@@ -166,6 +166,6 @@ If elements have unexpected gaps, inspect:
 
 ---
 ## **5. Key Takeaways**
-✅ **Content** is the main part of an element.
-✅ **Padding** adds space inside the border.
-✅ **Border** defines the element’s boundary
+- **Content** is the main part of an element.
+- **Padding** adds space inside the border.
+- **Border** defines the element’s boundary
