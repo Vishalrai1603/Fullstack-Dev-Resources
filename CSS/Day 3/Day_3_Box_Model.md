@@ -18,10 +18,10 @@ In CSS, every element on a webpage is considered a **box**. This concept helps i
 |         Margin              |
 |  +----------------------+   |
 |  |      Border          |   |
-|  |  +--------------+   |   |
-|  |  |  Padding    |   |   |
-|  |  |  Content    |   |   |
-|  |  +--------------+   |   |
+|  |  +--------------+    |   |
+|  |  |  Padding    |     |   |
+|  |  |  Content    |     |   |
+|  |  +--------------+    |   |
 |  +----------------------+   |
 +------------------------------+
 ```
