@@ -98,7 +98,6 @@ Relative units scale dynamically based on viewport size, parent elements, or roo
 📌 **Great for full-page sections and dynamic resizing.**
 
 ---
----
 
 ## **3. Key Takeaways**
 - Use `px` for fixed sizes.
