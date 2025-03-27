@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    font-size: 2rem;
+    text-align: center;
+}
+
+.px {
+    font-size: 16px;
+}
+
+.em {
+    font-size: 1.5em; /* 1.5 times parent size */
+}
+
+.rem {
+    font-size: 2rem; /* 2 times root size */
+}
+
+.box {
+    width: 50%;
+    height: 30vh;
+    background-color: lightblue;
+    text-align: center;
+    padding: 20px;
+    margin: auto;
+}
