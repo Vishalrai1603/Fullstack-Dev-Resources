@@ -101,12 +101,12 @@ Relative units scale dynamically based on viewport size, parent elements, or roo
 ---
 
 ## **3. Key Takeaways**
-✅ Use `px` for fixed sizes.
-✅ Use `em` for relative scaling to parent.
-✅ Use `rem` for consistency and better accessibility.
-✅ Use `%` for flexible layout sizing.
-✅ Use `vh` & `vw` for viewport-based scaling.
-✅ Combine different units for best results.
+- Use `px` for fixed sizes.
+- Use `em` for relative scaling to parent.
+- Use `rem` for consistency and better accessibility.
+- Use `%` for flexible layout sizing.
+- Use `vh` & `vw` for viewport-based scaling.
+- Combine different units for best results.
 
 ---
 
