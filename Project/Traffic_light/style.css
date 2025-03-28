@@ -1,0 +1,33 @@
+body{
+    background-color: skyblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .container{
+    background-color: black;
+    padding: 30px;
+    border-radius: 150px;
+    margin-top:150px;
+  }
+  
+  .signal{
+    height: 150px;
+    width: 150px;
+    background-color: rgb(25,25,25);
+    border-radius: 50%;
+    margin: 30px;
+  }
+  
+  .red:hover{
+    background-color: red;
+  }
+  
+  .yellow:hover{
+    background-color: yellow;
+  }
+  
+  .green:hover{
+    background-color: green;
+  }
